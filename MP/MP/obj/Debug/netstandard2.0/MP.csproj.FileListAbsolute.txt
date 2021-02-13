@@ -1,0 +1,14 @@
+C:\Mob\MP\MP\MP\bin\Debug\netstandard2.0\MP.deps.json
+C:\Mob\MP\MP\MP\bin\Debug\netstandard2.0\MP.dll
+C:\Mob\MP\MP\MP\bin\Debug\netstandard2.0\ref\MP.dll
+C:\Mob\MP\MP\MP\bin\Debug\netstandard2.0\MP.pdb
+C:\Mob\MP\MP\MP\obj\Debug\netstandard2.0\MP.csprojAssemblyReference.cache
+C:\Mob\MP\MP\MP\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Mob\MP\MP\MP\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Mob\MP\MP\MP\obj\Debug\netstandard2.0\MP.AssemblyInfoInputs.cache
+C:\Mob\MP\MP\MP\obj\Debug\netstandard2.0\MP.AssemblyInfo.cs
+C:\Mob\MP\MP\MP\obj\Debug\netstandard2.0\MP.csproj.CoreCompileInputs.cache
+C:\Mob\MP\MP\MP\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Mob\MP\MP\MP\obj\Debug\netstandard2.0\MP.dll
+C:\Mob\MP\MP\MP\obj\Debug\netstandard2.0\ref\MP.dll
+C:\Mob\MP\MP\MP\obj\Debug\netstandard2.0\MP.pdb

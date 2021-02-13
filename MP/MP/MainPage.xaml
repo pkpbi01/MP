@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MP.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Do you want to win the car of your Dream?" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Label Text="Then choose a door!"  HorizontalTextAlignment="Center" FontSize="Title" Padding="30,10,30,10"/>
+        <Button x:Name ="B1" Text="1"  FontAttributes="Bold" Clicked="B1_Click"></Button>
+        <Button x:Name ="B2" Text="2"  FontAttributes="Bold" Clicked="B2_Click"></Button>
+        <Button x:Name ="B3" Text="3"  FontAttributes="Bold" Clicked="B3_Click"></Button>
+        <Label x:Name="T1" Text="You win" VerticalOptions="Center" HorizontalOptions="Center"></Label>
+        <Label x:Name="T2" Text="You lose" VerticalOptions="Center" HorizontalOptions="Center"></Label>
+    </StackLayout>
+
+</ContentPage>
